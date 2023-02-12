@@ -1,4 +1,4 @@
-# cellpose-hackaton-liberalilab
+# Cellpose Hackathon on February 13, 2023
 Template notebook &amp; instructions to interactively train 3D cellpose models
 
 Follow the instructions in the `Cellpose_3D_training_workflow` notebook.
