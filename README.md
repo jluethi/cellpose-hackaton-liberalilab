@@ -1,6 +1,8 @@
 # Cellpose Hackathon on February 13, 2023
 Template notebook &amp; instructions to interactively train 3D cellpose models
 
+[Intro slides are available here](https://docs.google.com/presentation/d/1IIxVK1mCvI2eoq3HV5Ro3bzcJVO1_cM6LRWOqEPGiwY/edit#slide=id.g2072dd8912e_0_238)
+
 Follow the instructions in the `Cellpose_3D_training_workflow` notebook.
 
 
