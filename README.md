@@ -11,6 +11,7 @@ Follow the instructions in the `Cellpose_3D_training_workflow` notebook.
 Install the dev branch from Peter Sobolewski https://github.com/psobolewskiPhD/cellpose/tree/feature/add_MPS_device 
 
 This works for me
+```
 conda create --name cellpose-dev python=3.9 -y
 conda activate cellpose-dev
 conda install napari
@@ -20,6 +21,7 @@ git fetch
 git switch feature/add_MPS_device 
 conda install imagecodecs -y
 pip install -e .
+```
 
 
 
