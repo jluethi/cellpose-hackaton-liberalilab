@@ -12,9 +12,7 @@ Install the dev branch from Peter Sobolewski https://github.com/psobolewskiPhD/c
 
 This works for me
 ```
-conda config --add channels conda-forge
-conda config --set channel_priority strict
-conda create --name cellpose-dev python=3.9 -y
+conda create -y -n cellpose-dev -c conda-forge python=3.9
 conda activate cellpose-dev
 conda install napari
 git clone https://github.com/psobolewskiPhD/cellpose.git
