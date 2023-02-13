@@ -20,6 +20,7 @@ cd cellpose
 git fetch
 git switch feature/add_MPS_device 
 conda install imagecodecs -y
+conda install pyqtgraph -y
 pip install -e .
 ```
 
